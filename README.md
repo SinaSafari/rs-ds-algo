@@ -1,0 +1,1 @@
+this repo is heavily inspired (or simply copied) from [this repo](https://github.com/thealgorithms/rust)
